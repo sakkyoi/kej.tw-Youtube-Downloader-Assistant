@@ -1,4 +1,4 @@
-![image](https://github.com/sakkyoi/kej.tw-Youtube-Downloader-Assistant/raw/1.0.0/assets/icons/128.png)
+![image](https://github.com/sakkyoi/kej.tw-Youtube-Downloader-Assistant/raw/master/assets/icons/48.png)
 # kej.tw Youtube Downloader Assistant
 
 A Chrome Extension auto done anything you need to do in http://kej.tw/flvretriever/
