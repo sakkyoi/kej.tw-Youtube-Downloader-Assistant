@@ -1,0 +1,34 @@
+{
+    "manifest_version": 2,
+    "version": "1.0.0",
+    "name": "kej.tw Youtube Downloader Assistant",
+    "description": "Auto done anything you need to do in http://kej.tw/flvretriever/",
+    "icons": {
+        "16": "assets/icons/16.png",
+        "48": "assets/icons/48.png",
+        "128": "assets/icons/128.png"
+    },
+    "content_scripts": [
+        {
+            "matches": [
+                "*://kej.tw/*"
+            ],
+            "js": [
+                "assets/js/jquery.min.js",
+                "assets/js/main.js"
+            ]
+        }
+    ],
+    "background": {
+        "scripts": [
+            "assets/js/jquery.min.js",
+            "assets/js/background.js"
+        ],
+        "persistent": false
+    },
+    "permissions": [
+        "tabs",
+        "downloads",
+        "file://*"
+    ]
+}
