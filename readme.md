@@ -14,6 +14,7 @@ A Chrome Extension auto done anything you need to do in http://kej.tw/flvretriev
   3. Enable Developer Mode by clicking the toggle switch next to Developer mode.
   4. Click the "LOAD UNPACKED" button and select the extension directory.
   5. Detail in [https://developer.chrome.com/extensions/getstarted#manifest](https://developer.chrome.com/extensions/getstarted#manifest)
+  6. Or you can download the crx file I apck from [Release](https://github.com/sakkyoi/kej.tw-Youtube-Downloader-Assistant/releases)
 
 ## How to use
 
